@@ -1,0 +1,15 @@
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.deps.json
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.dll
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.pdb
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.CopyComplete
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.dll
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\refint\Infrastructure.Data.dll
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.pdb
+C:\Users\Joskin Villaman\source\repos\TiendaEnLinea\Infrastructure.Data\obj\Debug\net6.0\ref\Infrastructure.Data.dll
